@@ -1,0 +1,5 @@
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\obj\Debug\net5.0\4.Types.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\obj\Debug\net5.0\4.Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\obj\Debug\net5.0\4.Types.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\obj\Debug\net5.0\4.Types.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\obj\Debug\net5.0\4.Types.csproj.CoreCompileInputs.cache
