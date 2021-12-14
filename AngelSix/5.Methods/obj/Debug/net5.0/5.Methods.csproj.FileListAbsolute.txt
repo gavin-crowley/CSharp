@@ -1,0 +1,16 @@
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\obj\Debug\net5.0\5.Methods.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\obj\Debug\net5.0\5.Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\obj\Debug\net5.0\5.Methods.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\obj\Debug\net5.0\5.Methods.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\obj\Debug\net5.0\5.Methods.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\bin\Debug\net5.0\5.Methods.exe
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\bin\Debug\net5.0\5.Methods.deps.json
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\bin\Debug\net5.0\5.Methods.runtimeconfig.json
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\bin\Debug\net5.0\5.Methods.runtimeconfig.dev.json
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\bin\Debug\net5.0\5.Methods.dll
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\bin\Debug\net5.0\ref\5.Methods.dll
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\bin\Debug\net5.0\5.Methods.pdb
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\obj\Debug\net5.0\5.Methods.dll
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\obj\Debug\net5.0\ref\5.Methods.dll
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\obj\Debug\net5.0\5.Methods.pdb
+C:\Users\gavin\Documents\C#\AngelSix\5.Methods\obj\Debug\net5.0\5.Methods.genruntimeconfig.cache

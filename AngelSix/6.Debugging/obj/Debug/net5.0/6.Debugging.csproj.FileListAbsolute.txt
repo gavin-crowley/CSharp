@@ -1,0 +1,16 @@
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\bin\Debug\net5.0\6.Debugging.exe
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\bin\Debug\net5.0\6.Debugging.deps.json
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\bin\Debug\net5.0\6.Debugging.runtimeconfig.json
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\bin\Debug\net5.0\6.Debugging.runtimeconfig.dev.json
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\bin\Debug\net5.0\6.Debugging.dll
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\bin\Debug\net5.0\ref\6.Debugging.dll
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\bin\Debug\net5.0\6.Debugging.pdb
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\obj\Debug\net5.0\6.Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\obj\Debug\net5.0\6.Debugging.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\obj\Debug\net5.0\6.Debugging.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\obj\Debug\net5.0\6.Debugging.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\obj\Debug\net5.0\6.Debugging.dll
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\obj\Debug\net5.0\ref\6.Debugging.dll
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\obj\Debug\net5.0\6.Debugging.pdb
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\obj\Debug\net5.0\6.Debugging.genruntimeconfig.cache
+C:\Users\gavin\Documents\C#\AngelSix\6.Debugging\obj\Debug\net5.0\6.Debugging.csproj.AssemblyReference.cache

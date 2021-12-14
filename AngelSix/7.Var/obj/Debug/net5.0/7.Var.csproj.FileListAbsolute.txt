@@ -1,0 +1,16 @@
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\bin\Debug\net5.0\7.Var.exe
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\bin\Debug\net5.0\7.Var.deps.json
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\bin\Debug\net5.0\7.Var.runtimeconfig.json
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\bin\Debug\net5.0\7.Var.runtimeconfig.dev.json
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\bin\Debug\net5.0\7.Var.dll
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\bin\Debug\net5.0\ref\7.Var.dll
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\bin\Debug\net5.0\7.Var.pdb
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\obj\Debug\net5.0\7.Var.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\obj\Debug\net5.0\7.Var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\obj\Debug\net5.0\7.Var.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\obj\Debug\net5.0\7.Var.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\obj\Debug\net5.0\7.Var.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\obj\Debug\net5.0\7.Var.dll
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\obj\Debug\net5.0\ref\7.Var.dll
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\obj\Debug\net5.0\7.Var.pdb
+C:\Users\gavin\Documents\C#\AngelSix\7.Var\obj\Debug\net5.0\7.Var.genruntimeconfig.cache
