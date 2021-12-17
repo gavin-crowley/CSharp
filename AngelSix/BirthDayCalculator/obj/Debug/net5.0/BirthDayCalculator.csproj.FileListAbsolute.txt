@@ -1,0 +1,16 @@
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\bin\Debug\net5.0\BirthDayCalculator.exe
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\bin\Debug\net5.0\BirthDayCalculator.deps.json
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\bin\Debug\net5.0\BirthDayCalculator.runtimeconfig.json
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\bin\Debug\net5.0\BirthDayCalculator.runtimeconfig.dev.json
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\bin\Debug\net5.0\BirthDayCalculator.dll
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\bin\Debug\net5.0\ref\BirthDayCalculator.dll
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\bin\Debug\net5.0\BirthDayCalculator.pdb
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.dll
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\obj\Debug\net5.0\ref\BirthDayCalculator.dll
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.pdb
+C:\Users\gavin\Documents\C#\AngelSix\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.genruntimeconfig.cache

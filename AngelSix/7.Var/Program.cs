@@ -20,9 +20,9 @@ namespace _7.Var
 
 
             // floats
-            float myFloat = 1.1;
-            double myDouble = 1.1;
-            decimal myDecimal = 1.1;
+            float myFloat = 1.1F;
+            double myDouble = 1.1; 
+            decimal myDecimal = 1.1M; 
 
 
             bool myBool;
