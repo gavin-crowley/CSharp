@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23ecbbf3-ae15-46d0-b20a-815ed4cf144d": {
+      "ProjectGuid": "23ecbbf3-ae15-46d0-b20a-815ed4cf144d",
+      "DisplayName": "BirthDayCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

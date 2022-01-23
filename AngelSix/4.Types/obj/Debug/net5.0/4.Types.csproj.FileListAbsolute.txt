@@ -3,3 +3,14 @@ C:\Users\gavin\Documents\C#\AngelSix\4.Types\obj\Debug\net5.0\4.Types.GeneratedM
 C:\Users\gavin\Documents\C#\AngelSix\4.Types\obj\Debug\net5.0\4.Types.AssemblyInfoInputs.cache
 C:\Users\gavin\Documents\C#\AngelSix\4.Types\obj\Debug\net5.0\4.Types.AssemblyInfo.cs
 C:\Users\gavin\Documents\C#\AngelSix\4.Types\obj\Debug\net5.0\4.Types.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\bin\Debug\net5.0\4.Types.exe
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\bin\Debug\net5.0\4.Types.deps.json
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\bin\Debug\net5.0\4.Types.runtimeconfig.json
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\bin\Debug\net5.0\4.Types.runtimeconfig.dev.json
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\bin\Debug\net5.0\4.Types.dll
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\bin\Debug\net5.0\ref\4.Types.dll
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\bin\Debug\net5.0\4.Types.pdb
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\obj\Debug\net5.0\4.Types.dll
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\obj\Debug\net5.0\ref\4.Types.dll
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\obj\Debug\net5.0\4.Types.pdb
+C:\Users\gavin\Documents\C#\AngelSix\4.Types\obj\Debug\net5.0\4.Types.genruntimeconfig.cache

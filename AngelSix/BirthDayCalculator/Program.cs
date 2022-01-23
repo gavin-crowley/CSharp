@@ -24,9 +24,22 @@ namespace BirthDayCalculator
             Console.WriteLine($"Can I start by asking you what your date of birth is? { CultureInfo.CurrentCulture.DateTimeFormat.ShortDatePattern }");
 
             var userText = Console.ReadLine();
+
+            var parsedDate = DateTimeOffset.MinValue;
             
-            return DateTimeOffset.Parse(userText);
+            var succeeded = DateTimeOffset.TryParse(userText, out parsedDate);
+        
+            if (succeeded)
+            {
+                return parsedDate;
+            }
+            else
+            {
+                return AskForDateOfBirth();
+            }
         }
+
+
 
     }
 }
