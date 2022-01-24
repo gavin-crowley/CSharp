@@ -1,0 +1,15 @@
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\bin\Debug\net6.0\while_loop_examples.exe
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\bin\Debug\net6.0\while_loop_examples.deps.json
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\bin\Debug\net6.0\while_loop_examples.runtimeconfig.json
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\bin\Debug\net6.0\while_loop_examples.dll
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\bin\Debug\net6.0\ref\while_loop_examples.dll
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\bin\Debug\net6.0\while_loop_examples.pdb
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\obj\Debug\net6.0\while_loop_examples.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\obj\Debug\net6.0\while_loop_examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\obj\Debug\net6.0\while_loop_examples.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\obj\Debug\net6.0\while_loop_examples.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\obj\Debug\net6.0\while_loop_examples.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\obj\Debug\net6.0\while_loop_examples.dll
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\obj\Debug\net6.0\ref\while_loop_examples.dll
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\obj\Debug\net6.0\while_loop_examples.pdb
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\while_loop_examples\obj\Debug\net6.0\while_loop_examples.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.exe.config
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.exe
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.pdb
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\obj\Debug\MainWindow.g.cs
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\obj\Debug\App.g.cs
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\obj\Debug\HelloWorldWinForms_MarkupCompile.cache
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\obj\Debug\HelloWorldWinForms_MarkupCompile.lref
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\obj\Debug\MainWindow.baml
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.g.resources
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.Properties.Resources.resources
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.csproj.GenerateResource.cache
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.exe
+C:\Users\gavin\Documents\C#\ShadSluiter\beginning-c#\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.pdb

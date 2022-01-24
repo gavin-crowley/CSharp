@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c6668749-f96f-4461-9bd1-fb6c168ddf5d": {
+      "ProjectGuid": "c6668749-f96f-4461-9bd1-fb6c168ddf5d",
+      "DisplayName": "diff-directory",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

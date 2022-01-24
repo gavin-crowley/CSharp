@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e05937bf-5c9b-49e4-a4bf-da55c7b93c65": {
+      "ProjectGuid": "e05937bf-5c9b-49e4-a4bf-da55c7b93c65",
+      "DisplayName": "HelloWorldWinForms",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
