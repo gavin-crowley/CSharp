@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2559ea6b-a180-43fc-a5f6-1d86b39d9480": {
+      "ProjectGuid": "2559ea6b-a180-43fc-a5f6-1d86b39d9480",
+      "DisplayName": "Vocabulary",
+      "ColorIndex": 0
+    },
+    "3ff5000f-05a4-4225-8035-af2c21ffa732": {
+      "ProjectGuid": "3ff5000f-05a4-4225-8035-af2c21ffa732",
+      "DisplayName": "Numbers",
+      "ColorIndex": 1
+    },
+    "8bc8f70f-397f-42d4-99ee-6968a578da7a": {
+      "ProjectGuid": "8bc8f70f-397f-42d4-99ee-6968a578da7a",
+      "DisplayName": "Variables",
+      "ColorIndex": 2
+    },
+    "c0ed6cff-0042-448d-b7c9-e8bef01c6731": {
+      "ProjectGuid": "c0ed6cff-0042-448d-b7c9-e8bef01c6731",
+      "DisplayName": "Formatting",
+      "ColorIndex": 3
+    },
+    "f52756ad-a666-4096-a74f-227592498237": {
+      "ProjectGuid": "f52756ad-a666-4096-a74f-227592498237",
+      "DisplayName": "Arguments",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

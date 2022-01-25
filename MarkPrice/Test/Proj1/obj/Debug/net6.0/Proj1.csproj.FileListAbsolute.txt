@@ -1,0 +1,14 @@
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\bin\Debug\net6.0\Proj1.exe
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\bin\Debug\net6.0\Proj1.deps.json
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\bin\Debug\net6.0\Proj1.runtimeconfig.json
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\bin\Debug\net6.0\Proj1.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\bin\Debug\net6.0\ref\Proj1.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\bin\Debug\net6.0\Proj1.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\obj\Debug\net6.0\Proj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\obj\Debug\net6.0\Proj1.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\obj\Debug\net6.0\Proj1.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\obj\Debug\net6.0\Proj1.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\obj\Debug\net6.0\Proj1.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\obj\Debug\net6.0\ref\Proj1.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\obj\Debug\net6.0\Proj1.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\Test\Proj1\obj\Debug\net6.0\Proj1.genruntimeconfig.cache

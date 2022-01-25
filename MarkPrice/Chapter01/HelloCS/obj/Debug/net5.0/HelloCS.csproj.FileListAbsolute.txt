@@ -1,0 +1,16 @@
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.exe
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\bin\Debug\net5.0\ref\HelloCS.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache

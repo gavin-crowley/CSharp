@@ -1,0 +1,17 @@
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\bin\Debug\net6.0\Arguments.exe
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\bin\Debug\net6.0\Arguments.deps.json
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\bin\Debug\net6.0\Arguments.runtimeconfig.json
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\bin\Debug\net6.0\Arguments.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\bin\Debug\net6.0\ref\Arguments.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\bin\Debug\net6.0\Arguments.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\obj\Debug\net6.0\ref\Arguments.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.genruntimeconfig.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.Properties.Resources.resources
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Arguments\obj\Debug\net6.0\Arguments.csproj.GenerateResource.cache

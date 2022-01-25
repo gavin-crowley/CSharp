@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "795490c7-05cf-49d7-9573-6378368f1878": {
+      "ProjectGuid": "795490c7-05cf-49d7-9573-6378368f1878",
+      "DisplayName": "HelloCS",
+      "ColorIndex": 0
+    },
+    "9c0f804f-ff32-4dfc-b147-22fc13e3d894": {
+      "ProjectGuid": "9c0f804f-ff32-4dfc-b147-22fc13e3d894",
+      "DisplayName": "TopLevelProgram",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
