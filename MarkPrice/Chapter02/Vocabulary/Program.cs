@@ -28,3 +28,4 @@ HttpClient client;
     arg1: methodCount, arg2: name.Name);
     }
 
+Console.WriteLine(sizeof(decimal));

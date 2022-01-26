@@ -1,0 +1,15 @@
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\bin\Debug\net6.0\Operators.exe
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\bin\Debug\net6.0\Operators.deps.json
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\bin\Debug\net6.0\Operators.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\bin\Debug\net6.0\ref\Operators.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\bin\Debug\net6.0\Operators.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\obj\Debug\net6.0\Operators.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\obj\Debug\net6.0\ref\Operators.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\obj\Debug\net6.0\Operators.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache

@@ -25,7 +25,12 @@
       "ProjectGuid": "f52756ad-a666-4096-a74f-227592498237",
       "DisplayName": "Arguments",
       "ColorIndex": 4
+    },
+    "0b938dff-68aa-49ba-b0f2-5bbc82dccf19": {
+      "ProjectGuid": "0b938dff-68aa-49ba-b0f2-5bbc82dccf19",
+      "DisplayName": "Exercise02",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

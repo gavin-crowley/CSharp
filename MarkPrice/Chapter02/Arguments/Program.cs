@@ -35,3 +35,4 @@ try
     CursorSize = int.Parse(args[2]);
 }
 catch (PlatformNotSupportedException)
+{ }
