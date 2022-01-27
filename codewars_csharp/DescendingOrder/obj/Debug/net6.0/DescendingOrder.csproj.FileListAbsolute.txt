@@ -1,0 +1,14 @@
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\bin\Debug\net6.0\DescendingOrder.exe
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\bin\Debug\net6.0\DescendingOrder.deps.json
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\bin\Debug\net6.0\DescendingOrder.runtimeconfig.json
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\bin\Debug\net6.0\DescendingOrder.dll
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\bin\Debug\net6.0\ref\DescendingOrder.dll
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\bin\Debug\net6.0\DescendingOrder.pdb
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\obj\Debug\net6.0\DescendingOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\obj\Debug\net6.0\DescendingOrder.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\obj\Debug\net6.0\DescendingOrder.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\obj\Debug\net6.0\DescendingOrder.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\obj\Debug\net6.0\DescendingOrder.dll
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\obj\Debug\net6.0\ref\DescendingOrder.dll
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\obj\Debug\net6.0\DescendingOrder.pdb
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\obj\Debug\net6.0\DescendingOrder.genruntimeconfig.cache

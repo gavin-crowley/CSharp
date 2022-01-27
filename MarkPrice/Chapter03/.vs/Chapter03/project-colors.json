@@ -5,7 +5,17 @@
       "ProjectGuid": "a6bdaa8b-571d-43b8-8267-5e7c35ebd794",
       "DisplayName": "Operators",
       "ColorIndex": 0
+    },
+    "a12f1f85-bc74-416b-8a8b-2f24d204b276": {
+      "ProjectGuid": "a12f1f85-bc74-416b-8a8b-2f24d204b276",
+      "DisplayName": "BooleanOperators",
+      "ColorIndex": 1
+    },
+    "58209390-1d76-416d-8374-c0eb92ca308c": {
+      "ProjectGuid": "58209390-1d76-416d-8374-c0eb92ca308c",
+      "DisplayName": "BitwiseAndShiftOperators",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

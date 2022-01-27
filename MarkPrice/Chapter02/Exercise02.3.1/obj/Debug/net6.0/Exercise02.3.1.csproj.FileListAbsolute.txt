@@ -1,0 +1,14 @@
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\bin\Debug\net6.0\Exercise02.3.1.exe
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\bin\Debug\net6.0\Exercise02.3.1.deps.json
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\bin\Debug\net6.0\Exercise02.3.1.runtimeconfig.json
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\bin\Debug\net6.0\Exercise02.3.1.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\bin\Debug\net6.0\ref\Exercise02.3.1.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\bin\Debug\net6.0\Exercise02.3.1.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\obj\Debug\net6.0\Exercise02.3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\obj\Debug\net6.0\Exercise02.3.1.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\obj\Debug\net6.0\Exercise02.3.1.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\obj\Debug\net6.0\Exercise02.3.1.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\obj\Debug\net6.0\Exercise02.3.1.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\obj\Debug\net6.0\ref\Exercise02.3.1.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\obj\Debug\net6.0\Exercise02.3.1.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter02\Exercise02.3.1\obj\Debug\net6.0\Exercise02.3.1.genruntimeconfig.cache

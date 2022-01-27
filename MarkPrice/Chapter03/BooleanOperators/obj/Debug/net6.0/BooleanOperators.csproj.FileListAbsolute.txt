@@ -1,0 +1,14 @@
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.exe
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.deps.json
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.runtimeconfig.json
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\bin\Debug\net6.0\ref\BooleanOperators.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\obj\Debug\net6.0\ref\BooleanOperators.dll
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.genruntimeconfig.cache

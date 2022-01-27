@@ -1,0 +1,14 @@
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\obj\Debug\net6.0\HighestLowest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\obj\Debug\net6.0\HighestLowest.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\obj\Debug\net6.0\HighestLowest.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\obj\Debug\net6.0\HighestLowest.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\bin\Debug\net6.0\HighestLowest.exe
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\bin\Debug\net6.0\HighestLowest.deps.json
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\bin\Debug\net6.0\HighestLowest.runtimeconfig.json
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\bin\Debug\net6.0\HighestLowest.dll
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\bin\Debug\net6.0\ref\HighestLowest.dll
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\bin\Debug\net6.0\HighestLowest.pdb
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\obj\Debug\net6.0\HighestLowest.dll
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\obj\Debug\net6.0\ref\HighestLowest.dll
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\obj\Debug\net6.0\HighestLowest.pdb
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\obj\Debug\net6.0\HighestLowest.genruntimeconfig.cache

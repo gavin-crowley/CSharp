@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\Chapter02\\Exercise02\\Exercise02.csproj",
-      "projectName": "Exercise02",
-      "projectPath": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\Chapter02\\Exercise02\\Exercise02.csproj",
+      "projectUniqueName": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\Chapter02\\Exercise02\\Exercise02.3.csproj",
+      "projectName": "Exercise02.3",
+      "projectPath": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\Chapter02\\Exercise02\\Exercise02.3.csproj",
       "packagesPath": "C:\\Users\\gavin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\Chapter02\\Exercise02\\obj\\",
       "projectStyle": "PackageReference",
