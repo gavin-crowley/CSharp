@@ -3,21 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{31FA8980-BE82-4AF9-A215-7CFA12D70C8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sandbox", "Sandbox\Sandbox.csproj", "{31FA8980-BE82-4AF9-A215-7CFA12D70C8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntToString", "IntToString\IntToString.csproj", "{8F4831D0-A7E8-4F2B-8343-9F0C5E65BC1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntToString", "IntToString\IntToString.csproj", "{8F4831D0-A7E8-4F2B-8343-9F0C5E65BC1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddGoals", "AddGoals\AddGoals.csproj", "{9AEFFD8E-31A1-449B-B2F1-6589B1792B39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddGoals", "AddGoals\AddGoals.csproj", "{9AEFFD8E-31A1-449B-B2F1-6589B1792B39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOrOdd", "EvenOrOdd\EvenOrOdd.csproj", "{1C260D78-4C87-4182-B893-B958B5A4BBA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenOrOdd", "EvenOrOdd\EvenOrOdd.csproj", "{1C260D78-4C87-4182-B893-B958B5A4BBA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestLowest", "HighestLowest\HighestLowest.csproj", "{4FA45024-54B7-4B9B-8D2B-0E5DA6E70643}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HighestLowest", "HighestLowest\HighestLowest.csproj", "{4FA45024-54B7-4B9B-8D2B-0E5DA6E70643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opposite", "Opposite\Opposite.csproj", "{7EDD57DE-EBE5-4547-81BC-B2142790CA02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opposite", "Opposite\Opposite.csproj", "{7EDD57DE-EBE5-4547-81BC-B2142790CA02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DescendingOrder", "DescendingOrder\DescendingOrder.csproj", "{7A4492B1-D6AA-4CC0-8A31-D00088912A6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DescendingOrder", "DescendingOrder\DescendingOrder.csproj", "{7A4492B1-D6AA-4CC0-8A31-D00088912A6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositiveSum", "PositiveSum\PositiveSum.csproj", "{FB67CCF4-BF36-44B1-B2DF-11EE5F7D464C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PositiveSum", "PositiveSum\PositiveSum.csproj", "{FB67CCF4-BF36-44B1-B2DF-11EE5F7D464C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolYesNo", "BoolYesNo\BoolYesNo.csproj", "{D73E08DB-A97F-4B2E-AA94-21AAA982E401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCount", "VowelCount\VowelCount.csproj", "{C6A4553E-0710-4E51-84C6-1DBD652335B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{FB67CCF4-BF36-44B1-B2DF-11EE5F7D464C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB67CCF4-BF36-44B1-B2DF-11EE5F7D464C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB67CCF4-BF36-44B1-B2DF-11EE5F7D464C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73E08DB-A97F-4B2E-AA94-21AAA982E401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73E08DB-A97F-4B2E-AA94-21AAA982E401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73E08DB-A97F-4B2E-AA94-21AAA982E401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73E08DB-A97F-4B2E-AA94-21AAA982E401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A4553E-0710-4E51-84C6-1DBD652335B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A4553E-0710-4E51-84C6-1DBD652335B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A4553E-0710-4E51-84C6-1DBD652335B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A4553E-0710-4E51-84C6-1DBD652335B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

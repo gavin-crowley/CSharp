@@ -1,0 +1,14 @@
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\obj\Debug\net6.0\sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\obj\Debug\net6.0\sandbox.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\obj\Debug\net6.0\sandbox.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\obj\Debug\net6.0\sandbox.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\bin\Debug\net6.0\sandbox.exe
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\bin\Debug\net6.0\sandbox.deps.json
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\bin\Debug\net6.0\sandbox.runtimeconfig.json
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\bin\Debug\net6.0\sandbox.dll
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\bin\Debug\net6.0\ref\sandbox.dll
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\bin\Debug\net6.0\sandbox.pdb
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\obj\Debug\net6.0\sandbox.dll
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\obj\Debug\net6.0\ref\sandbox.dll
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\obj\Debug\net6.0\sandbox.pdb
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\obj\Debug\net6.0\sandbox.genruntimeconfig.cache

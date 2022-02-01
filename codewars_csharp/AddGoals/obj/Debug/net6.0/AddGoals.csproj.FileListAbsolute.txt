@@ -1,0 +1,5 @@
+C:\Users\gavin\Documents\C#\codewars_csharp\AddGoals\obj\Debug\net6.0\AddGoals.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\codewars_csharp\AddGoals\obj\Debug\net6.0\AddGoals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\codewars_csharp\AddGoals\obj\Debug\net6.0\AddGoals.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\codewars_csharp\AddGoals\obj\Debug\net6.0\AddGoals.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\codewars_csharp\AddGoals\obj\Debug\net6.0\AddGoals.csproj.CoreCompileInputs.cache

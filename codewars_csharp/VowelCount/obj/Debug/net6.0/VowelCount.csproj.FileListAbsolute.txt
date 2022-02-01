@@ -1,0 +1,14 @@
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\bin\Debug\net6.0\VowelCount.exe
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\bin\Debug\net6.0\VowelCount.deps.json
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\bin\Debug\net6.0\VowelCount.runtimeconfig.json
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\bin\Debug\net6.0\VowelCount.dll
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\bin\Debug\net6.0\ref\VowelCount.dll
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\bin\Debug\net6.0\VowelCount.pdb
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\obj\Debug\net6.0\VowelCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\obj\Debug\net6.0\VowelCount.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\obj\Debug\net6.0\VowelCount.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\obj\Debug\net6.0\VowelCount.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\obj\Debug\net6.0\VowelCount.dll
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\obj\Debug\net6.0\ref\VowelCount.dll
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\obj\Debug\net6.0\VowelCount.pdb
+C:\Users\gavin\Documents\C#\codewars_csharp\VowelCount\obj\Debug\net6.0\VowelCount.genruntimeconfig.cache

@@ -1,19 +1,24 @@
 {
   "Version": 1,
   "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
     "31fa8980-be82-4af9-a215-7cfa12d70c8b": {
       "ProjectGuid": "31fa8980-be82-4af9-a215-7cfa12d70c8b",
       "DisplayName": "Sandbox",
       "ColorIndex": 0
     },
-    "8f4831d0-a7e8-4f2b-8343-9f0c5e65bc1f": {
-      "ProjectGuid": "8f4831d0-a7e8-4f2b-8343-9f0c5e65bc1f",
-      "DisplayName": "IntToString",
-      "ColorIndex": 1
-    },
     "9aeffd8e-31a1-449b-b2f1-6589b1792b39": {
       "ProjectGuid": "9aeffd8e-31a1-449b-b2f1-6589b1792b39",
       "DisplayName": "AddGoals",
+      "ColorIndex": 1
+    },
+    "7a4492b1-d6aa-4cc0-8a31-d00088912a6a": {
+      "ProjectGuid": "7a4492b1-d6aa-4cc0-8a31-d00088912a6a",
+      "DisplayName": "DescendingOrder",
       "ColorIndex": 2
     },
     "1c260d78-4c87-4182-b893-b958b5a4bba2": {
@@ -26,21 +31,31 @@
       "DisplayName": "HighestLowest",
       "ColorIndex": 4
     },
+    "8f4831d0-a7e8-4f2b-8343-9f0c5e65bc1f": {
+      "ProjectGuid": "8f4831d0-a7e8-4f2b-8343-9f0c5e65bc1f",
+      "DisplayName": "IntToString",
+      "ColorIndex": 5
+    },
     "7edd57de-ebe5-4547-81bc-b2142790ca02": {
       "ProjectGuid": "7edd57de-ebe5-4547-81bc-b2142790ca02",
       "DisplayName": "Opposite",
-      "ColorIndex": 5
-    },
-    "7a4492b1-d6aa-4cc0-8a31-d00088912a6a": {
-      "ProjectGuid": "7a4492b1-d6aa-4cc0-8a31-d00088912a6a",
-      "DisplayName": "DescendingOrder",
       "ColorIndex": 6
     },
     "fb67ccf4-bf36-44b1-b2df-11ee5f7d464c": {
       "ProjectGuid": "fb67ccf4-bf36-44b1-b2df-11ee5f7d464c",
       "DisplayName": "PositiveSum",
       "ColorIndex": 7
+    },
+    "d73e08db-a97f-4b2e-aa94-21aaa982e401": {
+      "ProjectGuid": "d73e08db-a97f-4b2e-aa94-21aaa982e401",
+      "DisplayName": "BoolYesNo",
+      "ColorIndex": 8
+    },
+    "c6a4553e-0710-4e51-84c6-1dbd652335b2": {
+      "ProjectGuid": "c6a4553e-0710-4e51-84c6-1dbd652335b2",
+      "DisplayName": "VowelCount",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 10
 }

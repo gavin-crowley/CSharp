@@ -12,3 +12,4 @@ C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\obj\Debug\net6.0\Highe
 C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\obj\Debug\net6.0\ref\HighestLowest.dll
 C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\obj\Debug\net6.0\HighestLowest.pdb
 C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\obj\Debug\net6.0\HighestLowest.genruntimeconfig.cache
+C:\Users\gavin\Documents\C#\codewars_csharp\HighestLowest\obj\Debug\net6.0\HighestLowest.csproj.AssemblyReference.cache

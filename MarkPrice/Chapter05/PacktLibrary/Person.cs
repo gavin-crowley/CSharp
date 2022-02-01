@@ -45,5 +45,18 @@ namespace Packt.Shared // file-scoped namespace declaration
         {
             return ("Apples", 5);
         }
+
+        public void Deconstruct(out string name, out DateTime dob)
+        {
+            name = Name;
+            dob = DateOfBirth;
+        }
+
+        public void Deconstruct(out string name, out DateTime dob, out WondersOfTheAncientWorld fav)
+        {
+            name = Name;
+            dob = DateOfBirth;
+            fav = FavoriteAncientWonder;
+        }
     }
 }

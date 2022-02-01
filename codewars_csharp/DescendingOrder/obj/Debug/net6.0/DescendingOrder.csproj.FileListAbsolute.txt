@@ -12,3 +12,4 @@ C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\obj\Debug\net6.0\Des
 C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\obj\Debug\net6.0\ref\DescendingOrder.dll
 C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\obj\Debug\net6.0\DescendingOrder.pdb
 C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\obj\Debug\net6.0\DescendingOrder.genruntimeconfig.cache
+C:\Users\gavin\Documents\C#\codewars_csharp\DescendingOrder\obj\Debug\net6.0\DescendingOrder.csproj.AssemblyReference.cache
