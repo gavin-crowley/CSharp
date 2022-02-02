@@ -12,3 +12,4 @@ C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\obj\Debug\net6.0\sa
 C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\obj\Debug\net6.0\ref\sandbox.dll
 C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\obj\Debug\net6.0\sandbox.pdb
 C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\obj\Debug\net6.0\sandbox.genruntimeconfig.cache
+C:\Users\gavin\Documents\C#\w3_csharp\BasicExercises\sandbox\obj\Debug\net6.0\sandbox.csproj.AssemblyReference.cache
