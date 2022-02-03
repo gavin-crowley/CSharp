@@ -1,0 +1,15 @@
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\bin\Debug\net6.0\GlazerCalc.exe
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\bin\Debug\net6.0\GlazerCalc.deps.json
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\bin\Debug\net6.0\GlazerCalc.runtimeconfig.json
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\bin\Debug\net6.0\GlazerCalc.dll
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\bin\Debug\net6.0\ref\GlazerCalc.dll
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\bin\Debug\net6.0\GlazerCalc.pdb
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\obj\Debug\net6.0\GlazerCalc.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\obj\Debug\net6.0\GlazerCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\obj\Debug\net6.0\GlazerCalc.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\obj\Debug\net6.0\GlazerCalc.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\obj\Debug\net6.0\GlazerCalc.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\obj\Debug\net6.0\GlazerCalc.dll
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\obj\Debug\net6.0\ref\GlazerCalc.dll
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\obj\Debug\net6.0\GlazerCalc.pdb
+C:\Users\gavin\Documents\C#\RobMiles\GlazerCalc\obj\Debug\net6.0\GlazerCalc.genruntimeconfig.cache
