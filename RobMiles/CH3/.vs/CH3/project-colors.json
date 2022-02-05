@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "766622ac-e51f-44ba-befc-f7520bdbba9f": {
+      "ProjectGuid": "766622ac-e51f-44ba-befc-f7520bdbba9f",
+      "DisplayName": "SillyReturnsPlus",
+      "ColorIndex": 0
+    },
+    "217e6df6-6694-4afd-9099-5a1f23e48493": {
+      "ProjectGuid": "217e6df6-6694-4afd-9099-5a1f23e48493",
+      "DisplayName": "UsefulMethod",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

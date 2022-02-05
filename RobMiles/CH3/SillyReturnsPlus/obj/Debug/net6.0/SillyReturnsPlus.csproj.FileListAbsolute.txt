@@ -1,0 +1,15 @@
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\bin\Debug\net6.0\SillyReturnsPlus.exe
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\bin\Debug\net6.0\SillyReturnsPlus.deps.json
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\bin\Debug\net6.0\SillyReturnsPlus.runtimeconfig.json
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\bin\Debug\net6.0\SillyReturnsPlus.dll
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\bin\Debug\net6.0\ref\SillyReturnsPlus.dll
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\bin\Debug\net6.0\SillyReturnsPlus.pdb
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\obj\Debug\net6.0\SillyReturnsPlus.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\obj\Debug\net6.0\SillyReturnsPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\obj\Debug\net6.0\SillyReturnsPlus.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\obj\Debug\net6.0\SillyReturnsPlus.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\obj\Debug\net6.0\SillyReturnsPlus.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\obj\Debug\net6.0\SillyReturnsPlus.dll
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\obj\Debug\net6.0\ref\SillyReturnsPlus.dll
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\obj\Debug\net6.0\SillyReturnsPlus.pdb
+C:\Users\gavin\Documents\C#\RobMiles\CH3\SillyReturnsPlus\obj\Debug\net6.0\SillyReturnsPlus.genruntimeconfig.cache

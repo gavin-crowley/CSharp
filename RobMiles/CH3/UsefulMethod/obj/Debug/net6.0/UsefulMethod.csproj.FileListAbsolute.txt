@@ -1,0 +1,15 @@
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\bin\Debug\net6.0\UsefulMethod.exe
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\bin\Debug\net6.0\UsefulMethod.deps.json
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\bin\Debug\net6.0\UsefulMethod.runtimeconfig.json
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\bin\Debug\net6.0\UsefulMethod.dll
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\bin\Debug\net6.0\ref\UsefulMethod.dll
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\bin\Debug\net6.0\UsefulMethod.pdb
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\obj\Debug\net6.0\UsefulMethod.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\obj\Debug\net6.0\UsefulMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\obj\Debug\net6.0\UsefulMethod.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\obj\Debug\net6.0\UsefulMethod.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\obj\Debug\net6.0\UsefulMethod.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\obj\Debug\net6.0\UsefulMethod.dll
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\obj\Debug\net6.0\ref\UsefulMethod.dll
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\obj\Debug\net6.0\UsefulMethod.pdb
+C:\Users\gavin\Documents\C#\RobMiles\CH3\UsefulMethod\obj\Debug\net6.0\UsefulMethod.genruntimeconfig.cache
