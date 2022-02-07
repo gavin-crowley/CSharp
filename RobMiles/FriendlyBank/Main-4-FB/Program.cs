@@ -1,7 +1,17 @@
 ﻿using System;
 
+public interface IAccount
+{
+    void PayInFunds(decimal amount);
+    bool WithdrawFunds(decimal amount);
+    decimal GetBalance();
+    AccountState GetState();
+    string GetName();
+}
+
 
 //enumerated types - a type with a number of states
+// made public when adding interface
 public enum AccountState
 {
     New,
@@ -13,12 +23,13 @@ public enum AccountState
 
 
 
-class Account
+
+public class CustomerAccount : IAccount
 {
     // encapsulation - stop change from being made to member
     private string name;
     private AccountState state;
-    private decimal balance = 0;
+    private decimal balance;
 
     private static decimal interestRateCharged = 0.1M;
 
@@ -59,7 +70,7 @@ class Account
     }
 
     // constructors
-    public Account(string inName, AccountState inState, decimal inBalance)
+    public CustomerAccount(string inName, AccountState inState, decimal inBalance)
     {
         string errorMessage = "";
 
@@ -84,20 +95,20 @@ class Account
     }
 
     // only wanted to have balance as a parameter for testing
-    public Account(decimal inBalance) :
+    public CustomerAccount(decimal inBalance) :
      this("", AccountState.UnderAudit, inBalance)
     {
     }
 
     // use of this for method overloading, as above
-    public Account(string inName, AccountState inState) :
+    public CustomerAccount(string inName, AccountState inState) :
      this(inName, inState, 0)
     {
     }
 
 
     // public - code running outside the class can make calls to that method
-    public bool WithdrawFunds(decimal amount)
+    public virtual bool WithdrawFunds(decimal amount)
     {
         if (balance < amount)
         {
@@ -149,12 +160,37 @@ class Account
     }
 }
 
+public class BabyAccount : CustomerAccount, IAccount
+{
+    public BabyAccount (string inName, AccountState inState, decimal inBalance) 
+        :base(inName, inState, inBalance)
+    { 
+    }
+    public override bool WithdrawFunds(decimal amount)
+       
+    {
+        decimal tempBalance = GetBalance();
+        Console.WriteLine("test here");
+        if (amount > 10)
+        {
+            return false;
+        }
+        //if (tempBalance < amount)
+        //{
+        //    return false;
+        //}
+        SetBalance(tempBalance - amount);
+        //PayInFunds(GetBalance() - amount);
+        return true;
+    }
+}
+
 
 
 class BankProgram
 {
     // method with parameter of class type
-    public static void PrintAccount(Account a)
+    public static void PrintAccount(IAccount a)
     {
         Console.WriteLine("Name: " + a.GetName());
         Console.WriteLine("Account state: " + a.GetState());
@@ -165,18 +201,18 @@ class BankProgram
 
 
     public static void Main()
-    {   
+    {
         // check account allowed
-        if (Account.AccountAllowed(50000, 21))
+        if (CustomerAccount.AccountAllowed(50000, 21))
         {
             Console.WriteLine("Account Allowed");
-        } 
+        }
         else
         {
             Console.WriteLine("Account Not Allowed");
         }
 
-        Console.WriteLine("Interest Rate Charged: " + Account.GetInterest());
+        Console.WriteLine("Interest Rate Charged: " + CustomerAccount.GetInterest());
 
 
         Console.WriteLine("----------------");
@@ -185,27 +221,34 @@ class BankProgram
         const int MAX_CUST = 100;
 
         // declare an array of type Account
-        Account[] Accounts = new Account[MAX_CUST];
+        IAccount[] Accounts = new IAccount[MAX_CUST];
 
         // access and populate fields in rows of array
-        Accounts[0] = new Account("Rob", AccountState.New, 1000000);
+        Accounts[0] = new CustomerAccount("Rob", AccountState.New, 1000000);
         PrintAccount(Accounts[0]);
 
-        Accounts[1] = new Account("Jim", AccountState.Active, 23);
+        Accounts[1] = new CustomerAccount("Jim", AccountState.Active, 23);
         PrintAccount(Accounts[1]);
 
-        Accounts[2] = new Account("Julie", AccountState.Active);
+        Accounts[2] = new CustomerAccount("Julie", AccountState.Active);
         PrintAccount(Accounts[2]);
+        
+        Accounts[3] = new BabyAccount("Baby Driver", AccountState.New, 20);
+        PrintAccount(Accounts[3]);
 
 
         // withdraw from Robs account
         Accounts[0].WithdrawFunds(999999);
         Console.WriteLine($"{Accounts[0].GetName()}'s balance is now {Accounts[0].GetBalance()}");
 
+        // withdraw from Baby's account
+        Accounts[2].WithdrawFunds(5);
+        Console.WriteLine($"{Accounts[3].GetName()}'s balance is now {Accounts[3].GetBalance()}");
+
         Console.WriteLine("----------------");
 
         // Run test
-        Account test = new Account(0);
+        CustomerAccount test = new CustomerAccount(0);
         test.PayInFunds(50);
         if (test.GetBalance() != 50)
         {
