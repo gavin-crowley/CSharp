@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "kKEIfbLPIpTPeJeIZs0uSfJHlPwXBADTwtl/ub/Ldtp3zcgUkogPugEl/nu1o3JSxPW3ZLx1HJFirH6/gZtg/w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\Chapter14\\Northwind.Web\\Northwind.Web.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\Chapter14\\Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\Chapter14\\Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

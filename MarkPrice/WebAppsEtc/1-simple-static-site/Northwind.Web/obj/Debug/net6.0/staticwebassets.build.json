@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "204Lk55Lc/HdxrVaCqElXe49XQ6x7G5r4cradC5ooFM=",
+  "Source": "Northwind.Web",
+  "BasePath": "_content/Northwind.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Northwind.Web\\wwwroot",
+      "Source": "Northwind.Web",
+      "ContentRoot": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\Chapter14\\Northwind.Web\\wwwroot\\",
+      "BasePath": "_content/Northwind.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\Chapter14\\Northwind.Web\\wwwroot\\index.html",
+      "SourceId": "Northwind.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\Chapter14\\Northwind.Web\\wwwroot\\",
+      "BasePath": "_content/Northwind.Web",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
