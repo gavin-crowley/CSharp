@@ -1,0 +1,15 @@
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\bin\Debug\net6.0\HelloDI.exe
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\bin\Debug\net6.0\HelloDI.deps.json
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\bin\Debug\net6.0\HelloDI.runtimeconfig.json
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\bin\Debug\net6.0\HelloDI.dll
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\bin\Debug\net6.0\ref\HelloDI.dll
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\bin\Debug\net6.0\HelloDI.pdb
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\obj\Debug\net6.0\HelloDI.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\obj\Debug\net6.0\HelloDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\obj\Debug\net6.0\HelloDI.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\obj\Debug\net6.0\HelloDI.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\obj\Debug\net6.0\HelloDI.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\obj\Debug\net6.0\HelloDI.dll
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\obj\Debug\net6.0\ref\HelloDI.dll
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\obj\Debug\net6.0\HelloDI.pdb
+C:\Users\gavin\Documents\C#\DI\HelloDI\HelloDI\obj\Debug\net6.0\HelloDI.genruntimeconfig.cache
