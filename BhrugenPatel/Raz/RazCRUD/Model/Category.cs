@@ -10,6 +10,8 @@ namespace RazCRUD.Model
         public int Id { get; set; } // If prop name is already Id, EF makes it primary automatically
         [Required] // makes name required
         public string Name { get; set; }
+        [Display(Name ="Display Order")]
+        [Range(1,100, ErrorMessage ="Display order must be in range of 1-100!")]
         public int DisplayOrder { get; set; }
 
     }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O+smOfVCl7CW0fqT9kvDsFcsjt7mTaQx93bMW3P0eQU=",
+  "Hash": "jDo8xkm9oDCkbc3j6zXoKmVdsQYYhkJ/CnLy9KMEGlQ=",
   "Source": "RazCRUD",
   "BasePath": "_content/RazCRUD",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\gavin\\Documents\\C#\\BhrugenPatel\\Raz\\RazCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazCRUD.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\gavin\\Documents\\C#\\BhrugenPatel\\Raz\\RazCRUD\\wwwroot\\css\\bootswatch_cyborg.css",
+      "SourceId": "RazCRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gavin\\Documents\\C#\\BhrugenPatel\\Raz\\RazCRUD\\wwwroot\\",
+      "BasePath": "_content/RazCRUD",
+      "RelativePath": "css/bootswatch_cyborg.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatch_cyborg.css"
     },
     {
       "Identity": "C:\\Users\\gavin\\Documents\\C#\\BhrugenPatel\\Raz\\RazCRUD\\wwwroot\\css\\site.css",
