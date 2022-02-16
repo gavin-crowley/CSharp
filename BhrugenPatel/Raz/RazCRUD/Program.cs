@@ -10,7 +10,7 @@ builder.Services.AddRazorPages();
 // DI inserted here, before .Build() call
 
 // we are just adding  items to the container, so that we can extract and use with the help of dependency injection
-//we are saying that for this DB context for database, we want to use SQL Server
+// we are saying that for this DB context for database, we want to use SQL Server
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
     //extract our connection string from App Settings
     builder.Configuration.GetConnectionString("DefaultConnection")

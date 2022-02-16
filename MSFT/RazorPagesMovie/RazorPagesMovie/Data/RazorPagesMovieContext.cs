@@ -17,5 +17,4 @@ namespace RazorPagesMovie.Data
 
         public DbSet<RazorPagesMovie.Models.Movie> Movie { get; set; }
     }
-    //The preceding code creates a DbSet<Movie> property for the entity set (database table).
 }

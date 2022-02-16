@@ -7,6 +7,7 @@ C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\bin\Debug\net6.
 C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\bin\Debug\net6.0\RazorPagesMovie.dll
 C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\bin\Debug\net6.0\ref\RazorPagesMovie.dll
 C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\bin\Debug\net6.0\RazorPagesMovie.pdb
+C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\obj\Debug\net6.0\RazorPagesMovie.csproj.AssemblyReference.cache
 C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\obj\Debug\net6.0\RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\obj\Debug\net6.0\RazorPagesMovie.AssemblyInfoInputs.cache
 C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\obj\Debug\net6.0\RazorPagesMovie.AssemblyInfo.cs
@@ -51,6 +52,7 @@ C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\bin\Debug\net6.
 C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\gavin\Documents\C#\MSFT\RazorPagesMovie\RazorPagesMovie\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
