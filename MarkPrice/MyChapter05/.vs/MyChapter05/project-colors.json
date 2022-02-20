@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3243d0df-38fe-4de5-9361-35c8e02493ab": {
+      "ProjectGuid": "3243d0df-38fe-4de5-9361-35c8e02493ab",
+      "DisplayName": "MyPacktLibrary",
+      "ColorIndex": 0
+    },
+    "4e8b2d98-7f54-4aa8-9836-0d06531add5e": {
+      "ProjectGuid": "4e8b2d98-7f54-4aa8-9836-0d06531add5e",
+      "DisplayName": "PeopleApp",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

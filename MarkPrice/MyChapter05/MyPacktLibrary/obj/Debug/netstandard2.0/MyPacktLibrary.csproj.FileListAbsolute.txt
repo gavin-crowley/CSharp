@@ -1,0 +1,10 @@
+C:\Users\gavin\Documents\C#\MarkPrice\MyChapter05\MyPacktLibrary\bin\Debug\netstandard2.0\MyPacktLibrary.deps.json
+C:\Users\gavin\Documents\C#\MarkPrice\MyChapter05\MyPacktLibrary\bin\Debug\netstandard2.0\MyPacktLibrary.dll
+C:\Users\gavin\Documents\C#\MarkPrice\MyChapter05\MyPacktLibrary\bin\Debug\netstandard2.0\MyPacktLibrary.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\MyChapter05\MyPacktLibrary\obj\Debug\netstandard2.0\MyPacktLibrary.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\MarkPrice\MyChapter05\MyPacktLibrary\obj\Debug\netstandard2.0\MyPacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\MarkPrice\MyChapter05\MyPacktLibrary\obj\Debug\netstandard2.0\MyPacktLibrary.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\MyChapter05\MyPacktLibrary\obj\Debug\netstandard2.0\MyPacktLibrary.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\MarkPrice\MyChapter05\MyPacktLibrary\obj\Debug\netstandard2.0\MyPacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\MyChapter05\MyPacktLibrary\obj\Debug\netstandard2.0\MyPacktLibrary.dll
+C:\Users\gavin\Documents\C#\MarkPrice\MyChapter05\MyPacktLibrary\obj\Debug\netstandard2.0\MyPacktLibrary.pdb

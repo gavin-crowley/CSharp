@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bvNLhI56eyyCG46fZxfBGis2fO7BxAMz58MRJtznDEltWivHBz06JvV+kLESeFAd//uC+djGkT5E7w6TLBjcKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\MyChapter05\\MyPacktLibrary\\MyPacktLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gavin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gavin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
