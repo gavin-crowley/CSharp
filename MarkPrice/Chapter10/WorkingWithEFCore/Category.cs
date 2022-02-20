@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace   Packt.Shared
+namespace Packt.Shared
 {
     // Category entity model class
     public class Category

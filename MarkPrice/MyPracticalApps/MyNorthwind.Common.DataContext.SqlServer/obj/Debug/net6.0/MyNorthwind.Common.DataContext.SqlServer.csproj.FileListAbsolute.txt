@@ -1,0 +1,15 @@
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\bin\Debug\net6.0\MyNorthwind.Common.DataContext.SqlServer.deps.json
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\bin\Debug\net6.0\MyNorthwind.Common.DataContext.SqlServer.dll
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\bin\Debug\net6.0\ref\MyNorthwind.Common.DataContext.SqlServer.dll
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\bin\Debug\net6.0\MyNorthwind.Common.DataContext.SqlServer.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\bin\Debug\net6.0\MyNorthwind.Common.EntityModels.SqlServer.dll
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\bin\Debug\net6.0\MyNorthwind.Common.EntityModels.SqlServer.pdb
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\obj\Debug\net6.0\MyNorthwind.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\obj\Debug\net6.0\MyNorthwind.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\obj\Debug\net6.0\MyNorthwind.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\obj\Debug\net6.0\MyNorthwind.Common.DataContext.SqlServer.AssemblyInfo.cs
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\obj\Debug\net6.0\MyNorthwind.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\obj\Debug\net6.0\MyNorthwind.Common.DataContext.SqlServer.csproj.CopyComplete
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\obj\Debug\net6.0\MyNorthwind.Common.DataContext.SqlServer.dll
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\obj\Debug\net6.0\ref\MyNorthwind.Common.DataContext.SqlServer.dll
+C:\Users\gavin\Documents\C#\MarkPrice\MyPracticalApps\MyNorthwind.Common.DataContext.SqlServer\obj\Debug\net6.0\MyNorthwind.Common.DataContext.SqlServer.pdb
