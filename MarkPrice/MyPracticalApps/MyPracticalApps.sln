@@ -13,7 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNorthwind.Common.DataCont
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNorthwind.Web", "MyNorthwind.Web\MyNorthwind.Web.csproj", "{80B46069-4EE9-47EF-A63F-A30C74AD3754}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNorthwind.Razor.Employees", "MyNorthwind.Razor.Employees\MyNorthwind.Razor.Employees.csproj", "{B0A48388-1DF4-4286-A478-E7BDBAC0EE28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNorthwind.Razor.Employees", "MyNorthwind.Razor.Employees\MyNorthwind.Razor.Employees.csproj", "{B0A48388-1DF4-4286-A478-E7BDBAC0EE28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNorthwind.Mvc", "MyNorthwind.Mvc\MyNorthwind.Mvc.csproj", "{37899353-A9BD-4117-A4AD-50FCFAD5BEFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNorthwind.WebApi", "MyNorthwind.WebApi\MyNorthwind.WebApi.csproj", "{2166C363-F8AE-4369-880D-9468FE850342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNorthwind.Common", "MyNorthwind.Common\MyNorthwind.Common.csproj", "{1F5E65AD-552F-4A31-B590-DEB1A1AE69F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{B0A48388-1DF4-4286-A478-E7BDBAC0EE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0A48388-1DF4-4286-A478-E7BDBAC0EE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0A48388-1DF4-4286-A478-E7BDBAC0EE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37899353-A9BD-4117-A4AD-50FCFAD5BEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37899353-A9BD-4117-A4AD-50FCFAD5BEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37899353-A9BD-4117-A4AD-50FCFAD5BEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37899353-A9BD-4117-A4AD-50FCFAD5BEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2166C363-F8AE-4369-880D-9468FE850342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2166C363-F8AE-4369-880D-9468FE850342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2166C363-F8AE-4369-880D-9468FE850342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2166C363-F8AE-4369-880D-9468FE850342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5E65AD-552F-4A31-B590-DEB1A1AE69F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5E65AD-552F-4A31-B590-DEB1A1AE69F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5E65AD-552F-4A31-B590-DEB1A1AE69F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5E65AD-552F-4A31-B590-DEB1A1AE69F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
