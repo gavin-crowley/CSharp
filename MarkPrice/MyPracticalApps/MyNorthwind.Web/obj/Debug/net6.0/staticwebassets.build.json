@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "Hash": "UoxTC/7icGe+JXC4AWn0MwN7tmLvhDlvY6Npmnjw7i0=",
+  "Source": "MyNorthwind.Web",
+  "BasePath": "_content/MyNorthwind.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\MyPracticalApps\\MyNorthwind.Razor.Employees\\MyNorthwind.Razor.Employees.csproj",
+      "Version": 2,
+      "Source": "MyNorthwind.Razor.Employees",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyNorthwind.Web\\wwwroot",
+      "Source": "MyNorthwind.Web",
+      "ContentRoot": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\MyPracticalApps\\MyNorthwind.Web\\wwwroot\\",
+      "BasePath": "_content/MyNorthwind.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\MyPracticalApps\\MyNorthwind.Web\\wwwroot\\index.html",
+      "SourceId": "MyNorthwind.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gavin\\Documents\\C#\\MarkPrice\\MyPracticalApps\\MyNorthwind.Web\\wwwroot\\",
+      "BasePath": "_content/MyNorthwind.Web",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

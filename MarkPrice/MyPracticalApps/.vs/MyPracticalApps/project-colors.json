@@ -20,7 +20,17 @@
       "ProjectGuid": "61160e9b-ab7b-4601-a441-5cdc6a8fcf66",
       "DisplayName": "MyNorthwind.Common.DataContext.SqlServer",
       "ColorIndex": 3
+    },
+    "80b46069-4ee9-47ef-a63f-a30c74ad3754": {
+      "ProjectGuid": "80b46069-4ee9-47ef-a63f-a30c74ad3754",
+      "DisplayName": "MyNorthwind.Web",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

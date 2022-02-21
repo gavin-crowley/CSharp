@@ -5,11 +5,15 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNorthwind.Common.EntityModels.Sqlite", "MyNorthwind.Common.EntityModels.Sqlite\MyNorthwind.Common.EntityModels.Sqlite.csproj", "{A54B8540-7404-4554-B838-E26A3F99186E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNorthwind.Common.DataContext.Sqlite", "MyNorthwind.Common.DataContext.Sqlite\MyNorthwind.Common.DataContext.Sqlite.csproj", "{37E2AF91-0EF7-48EB-A8B0-9BD8D8F52C8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNorthwind.Common.DataContext.Sqlite", "MyNorthwind.Common.DataContext.Sqlite\MyNorthwind.Common.DataContext.Sqlite.csproj", "{37E2AF91-0EF7-48EB-A8B0-9BD8D8F52C8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNorthwind.Common.EntityModels.SqlServer", "MyNorthwind.Common.EntityModels.SqlServer\MyNorthwind.Common.EntityModels.SqlServer.csproj", "{B59F6218-026C-4D13-B53F-CD20F82A9976}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNorthwind.Common.EntityModels.SqlServer", "MyNorthwind.Common.EntityModels.SqlServer\MyNorthwind.Common.EntityModels.SqlServer.csproj", "{B59F6218-026C-4D13-B53F-CD20F82A9976}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNorthwind.Common.DataContext.SqlServer", "MyNorthwind.Common.DataContext.SqlServer\MyNorthwind.Common.DataContext.SqlServer.csproj", "{61160E9B-AB7B-4601-A441-5CDC6A8FCF66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNorthwind.Common.DataContext.SqlServer", "MyNorthwind.Common.DataContext.SqlServer\MyNorthwind.Common.DataContext.SqlServer.csproj", "{61160E9B-AB7B-4601-A441-5CDC6A8FCF66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNorthwind.Web", "MyNorthwind.Web\MyNorthwind.Web.csproj", "{80B46069-4EE9-47EF-A63F-A30C74AD3754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNorthwind.Razor.Employees", "MyNorthwind.Razor.Employees\MyNorthwind.Razor.Employees.csproj", "{B0A48388-1DF4-4286-A478-E7BDBAC0EE28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{61160E9B-AB7B-4601-A441-5CDC6A8FCF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61160E9B-AB7B-4601-A441-5CDC6A8FCF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61160E9B-AB7B-4601-A441-5CDC6A8FCF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B46069-4EE9-47EF-A63F-A30C74AD3754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B46069-4EE9-47EF-A63F-A30C74AD3754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B46069-4EE9-47EF-A63F-A30C74AD3754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B46069-4EE9-47EF-A63F-A30C74AD3754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A48388-1DF4-4286-A478-E7BDBAC0EE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A48388-1DF4-4286-A478-E7BDBAC0EE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A48388-1DF4-4286-A478-E7BDBAC0EE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A48388-1DF4-4286-A478-E7BDBAC0EE28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
