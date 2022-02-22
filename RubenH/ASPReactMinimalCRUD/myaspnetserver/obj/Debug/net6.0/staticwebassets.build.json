@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "apClEGLDIr+Vi7+t1Gs2zHmSHrI4uiBzGnDLQRmDRrw=",
+  "Source": "myaspnetserver",
+  "BasePath": "_content/myaspnetserver",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
