@@ -26,3 +26,4 @@ class GlazerCalc
 
 // comment
 // comment
+// comment
