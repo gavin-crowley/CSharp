@@ -1,0 +1,276 @@
+﻿++Solution 'SportsSln' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:SportsSln.sln
+++SportsStore
+i:{00000000-0000-0000-0000-000000000000}:SportsStore
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\bin\debug\net6.0\sportsstore.dll
+++Connected Services 
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:>162
+++No service dependencies discovered
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:>163
+++Dependencies
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:>161
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:>107
+++Analyzers
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:analyzers
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:analyzers
+++Frameworks
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:frameworks
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:frameworks
+++Properties
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\properties\
+++launchSettings.json
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\properties\launchsettings.json
+++NewFolder
+++Views
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\views\
+++Home
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\views\home\
+++Shared
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\views\shared\
+++appsettings.json
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\appsettings.json
+++appsettings.Development.json
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\appsettings.development.json
+++global.json
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\global.json
+++Program.cs
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\program.cs
+++Microsoft.AspNetCore.Analyzers
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\microsoft.netcore.app
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore.tests\microsoft.netcore.app
+++SportsStore.Tests
+i:{00000000-0000-0000-0000-000000000000}:SportsStore.Tests
+++UnitTest1.cs
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore.tests\unittest1.cs
+++Packages
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:packages
+++Projects
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:projects
+++xunit.analyzers
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:c:\users\gavin\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++coverlet.collector (3.1.0)
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:>188
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:>184
+++Moq (4.16.1)
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:>187
+++xunit (2.4.1)
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:>185
+++xunit.runner.visualstudio (2.4.3)
+i:{9e9a945c-e610-4421-a1a9-05a2cbd03d35}:>186
+++bin
+++Debug
+++net6.0
+++SportsStore.deps.json
+++SportsStore.dll
+++SportsStore.exe
+++SportsStore.pdb
+++SportsStore.runtimeconfig.json
+++Controllers
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\controllers\
+++Models
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\models\
+++obj
+++project.assets.json
+++project.nuget.cache
+++SportsStore.csproj.nuget.dgspec.json
+++SportsStore.csproj.nuget.g.props
+++SportsStore.csproj.nuget.g.targets
+++staticwebassets.pack.sentinel
+++ref
+++refint
+++staticwebassets
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+++apphost.exe
+++project.razor.json
+++SportsStore.AssemblyInfo.cs
+++SportsStore.AssemblyInfoInputs.cache
+++SportsStore.assets.cache
+++SportsStore.csproj.AssemblyReference.cache
+++SportsStore.csproj.CoreCompileInputs.cache
+++SportsStore.csproj.FileListAbsolute.txt
+++SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+++SportsStore.genruntimeconfig.cache
+++SportsStore.GlobalUsings.g.cs
+++SportsStore.MvcApplicationPartsAssemblyInfo.cache
+++staticwebassets.build.json
+++Imports
+++Sdk.props
+++Sdk.targets
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+++Microsoft.Common.props
+++Microsoft.NET.Sdk.props
+++Sdk.Razor.CurrentVersion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+++Microsoft.NET.Sdk.Publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+++Microsoft.CSharp.targets
+++Microsoft.NET.Sdk.targets
+++Microsoft.NET.Compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+++Sdk.Razor.CurrentVersion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+++Microsoft.NuGet.ImportBefore.props
+++NuGet.props
+++Microsoft.NET.Sdk.DefaultItems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+++Microsoft.NET.SupportedPlatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+++Microsoft.NET.ILLink.props
+++Microsoft.NET.Compatibility.props
+++Microsoft.NET.PackTool.props
+++Microsoft.NET.PackProjectTool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+++Microsoft.NET.Windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+++Microsoft.TypeScript.Default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+++Microsoft.Managed.Before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+++Microsoft.Managed.After.targets
+++Microsoft.NET.Sdk.Common.targets
+++Microsoft.PackageDependencyResolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+++Microsoft.NET.DesignerSupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+++Microsoft.NET.ComposeStore.targets
+++Microsoft.NET.CrossGen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+++Microsoft.NET.Publish.targets
+++Microsoft.NET.PackTool.targets
+++Microsoft.NET.PackProjectTool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+++Microsoft.NET.ConflictResolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+++Microsoft.NET.ILLink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+++Microsoft.TypeScript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+++Microsoft.Web.Designtime.targets
+++Default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+++Microsoft.NuGet.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+++Microsoft.CSharp.Core.targets
+++Microsoft.CSharp.DesignTime.targets
+++Microsoft.Common.targets
+++Microsoft.ServiceModel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+++Microsoft.NET.ILLink.Tasks.props
+++System.Windows.Forms.Analyzers.props
+++Microsoft.Managed.Core.targets
+++Microsoft.Managed.DesignTime.targets
+++Microsoft.Common.CurrentVersion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+++Microsoft.Net.CoreRuntime.ImportBefore.targets
+++Microsoft.NetNative.ImportBefore.targets
+++Microsoft.NET.props
+++Microsoft.CodeAnalysis.targets
+++Microsoft.Xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+++Microsoft.TeamTest.targets
+++NuGet.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+++Microsoft.Docker.ImportAfter.targets
+++Microsoft.NET.Build.Extensions.targets
+++Microsoft.Net.CoreRuntime.ImportAfter.targets
+++Microsoft.NetNative.ImportAfter.targets
+++Microsoft.NuGet.ImportAfter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+++Microsoft.Web.ImportAfter.targets
+++Xamarin.Common.targets
+++Microsoft.DesktopBridge.Common.targets
+++Microsoft.Docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+++Microsoft.Web.IISSupport.targets
+++MOE
+++_ViewImports.cshtml
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\views\_viewstart.cshtml
+++_Layout.cshtml
+i:{b10cdf5d-0644-4033-be9f-8dee9f1ffa62}:c:\users\gavin\documents\c#\afreeman\sportssln\sportsstore\views\shared\_layout.cshtml
